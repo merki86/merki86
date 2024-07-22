@@ -6,7 +6,7 @@
 ---  
   
 ![Tilewjan Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=serwennn\&title_color=fff\&text_color=9f9f9f\&bg_color=151515)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serwennn\&layout=compact\&title_color=fff\&text_color=9f9f9f\&bg_color=151515)
+![Tilewjan Ayan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=serwennn\&layout=compact\&title_color=fff\&text_color=9f9f9f\&bg_color=151515)
 
 ---
 </div>
