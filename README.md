@@ -16,6 +16,6 @@
 
 <div align="right">
   <img align="top" width="140" src="takanashirikka.png" alt="rikka">
-  <p><img align="bottom" width="200" src="qaraotkel.png"></p>
-
+  <p>𐰖𐰁𐰵𐰦𐰁⁚𐰌𐰁𐰼𐰅⁚𐰆𐰬𐰁𐰞𐰁𐰑! 𐰢𐰺𐰚𐰄⁚</p>
+  <!-- <p><img align="bottom" width="200" src="qaraotkel.png"></p> -->
 </div>
